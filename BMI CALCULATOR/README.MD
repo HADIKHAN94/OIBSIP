@@ -18,8 +18,3 @@ It’s designed as a beginner‑friendly health utility and can be extended into
 
 ---
 
-## ⚙️ Installation
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/HADIKHAN94/OIBSIP.git
-   cd BMICalculator
