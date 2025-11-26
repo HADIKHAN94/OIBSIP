@@ -1,4 +1,4 @@
-# 🌟 Oasis Infobyte Internship Projects
+# 🌟 Oasis Infobyte Internship Task
 
 Welcome to my internship showcase for **Oasis Infobyte**, where I’ve built multiple Python-based applications focused on GUI development, API integration, and user-friendly design. Each project demonstrates practical coding skills, clean architecture, and attention to usability.
 
