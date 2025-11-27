@@ -1,44 +1,40 @@
-📌 Password Generator Using Python (Tkinter GUI)
-🔒 About the Project
+# 🔐 Password Generator (Tkinter GUI)
 
-This project is a GUI-based Password Generator built using Python and Tkinter.
-It allows users to generate secure, random passwords with customizable options such as password length, inclusion of letters, numbers, and symbols.
-The application also includes a Copy to Clipboard button for quick usage and validations to improve the user experience.
+A simple yet powerful **GUI-based Password Generator** built with **Python** and **Tkinter**.  
+This app helps you create secure, random passwords with customizable options such as length, letters, numbers, and symbols.  
+It also includes **one-click clipboard copy** and input validation for a smooth user experience.
 
-✨ Features
+---
 
-Choose desired password length
+## ✨ Features
 
-Enable/disable:
+- 🎚️ Choose desired password length  
+- 🔡 Enable/disable character sets:
+  - Letters (A–Z, a–z)  
+  - Numbers (0–9)  
+  - Symbols (!, @, #, $, etc.)  
+- ⚡ One-click **Generate** button  
+- 📋 **Copy to Clipboard** functionality  
+- 🚫 Error handling & input validation  
+- 🎨 Clean and simple Tkinter GUI  
 
-Letters (A–Z, a–z)
+---
 
-Numbers (0–9)
+## 🧠 What I Learned
 
-Symbols (!, @, #, $, etc.)
+- Building interactive GUIs with **Tkinter widgets** (Buttons, Checkboxes, Entry, Labels, Frames)  
+- Handling user inputs and interactive elements  
+- Generating secure random strings with **random** and **string** modules  
+- Implementing **clipboard integration** in desktop apps  
+- Improving application flow and usability  
 
-One-click Generate button
+---
 
-Copy to Clipboard functionality
+## 🛠 Technologies Used
 
-Error handling & input validation
+| Technology | Description |
+|------------|-------------|
+| **Python** | Core programming language |
+| **Tkinter** | GUI framework for desktop apps |
+| **random & string** | Secure random password creation |
 
-Simple and clean Tkinter GUI
-
-🧠 What I learned
-
-Working with Tkinter widgets (Buttons, Checkboxes, Entry, Labels, Frame)
-
-Handling user inputs and interactive elements
-
-Generating random secure strings with random and string modules
-
-Clipboard integration in GUI apps
-
-Improving application flow and usability
-
-🛠 Technologies Used
-Technology	Description
-Python	Core programming language
-Tkinter	GUI framework for desktop apps
-random & string	Secure random password creation
