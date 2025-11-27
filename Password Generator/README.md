@@ -14,7 +14,7 @@ It also includes **one-click clipboard copy** and input validation for a smooth 
   - Numbers (0–9)  
   - Symbols (!, @, #, $, etc.)  
 - ⚡ One-click **Generate** button  
-- 📋 **Copy to Clipboard** functionality  
+- 📋 **Copy to Clipboard** functionality 
 - 🚫 Error handling & input validation  
 - 🎨 Clean and simple Tkinter GUI  
 

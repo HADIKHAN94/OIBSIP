@@ -6,10 +6,11 @@ Welcome to my internship showcase for **Oasis Infobyte**, where I’ve built mul
 
 ## 📌 Projects Overview
 
-| Project            | Description                                                                 | Tech Stack                          |
-|--------------------|-----------------------------------------------------------------------------|-------------------------------------|
-| **BMI Calculator** | Calculates Body Mass Index and categorizes health status via a Tkinter GUI | Python, Tkinter                     |
-| **Weather App**    | Fetches real-time weather data using OpenWeather API and displays it in GUI | Python, Tkinter, Requests, dotenv   |
+| Project               | Description                                                                 | Tech Stack                          |
+|-----------------------|-----------------------------------------------------------------------------|-------------------------------------|
+| **BMI Calculator**    | Calculates Body Mass Index and categorizes health status via a Tkinter GUI | Python, Tkinter                     |
+| **Weather App**       | Fetches real-time weather data using OpenWeather API and displays it in GUI | Python, Tkinter, Requests, dotenv   |
+| **Password Generator**| Generates secure, random passwords with customizable options and clipboard copy | Python, Tkinter, string, secrets |
 
 ---
 
