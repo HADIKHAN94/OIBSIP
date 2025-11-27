@@ -1,4 +1,4 @@
-# 🌟 Oasis Infobyte Internship Projects (OIBSIP)
+# 🌟 Oasis Infobyte Internship Task (OIBSIP)
 
 This repository contains a collection of projects developed during my **Oasis Infobyte Internship**. Each project demonstrates practical programming skills, problem-solving, and clean documentation.
 
